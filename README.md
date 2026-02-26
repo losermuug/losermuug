@@ -69,3 +69,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<p align="center">
+  <i><b>Maral</b> is the <code>Main()</code> function of my life. Without her, nothing works. 🌻</i>
+</p>
