@@ -36,8 +36,6 @@
 
 ---
 
-### ⚽ Football Heart
-
 <p align="center">
   <img src="https://img.shields.io/badge/Liverpool%20FC-C8102E?style=for-the-badge&logo=liverpoolfc&logoColor=white" alt="Liverpool FC" />
   <img src="https://img.shields.io/badge/FC%20Barcelona-A50044?style=for-the-badge&logo=fcbarcelona&logoColor=white" alt="FC Barcelona" />
