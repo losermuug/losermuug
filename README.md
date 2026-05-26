@@ -3,38 +3,56 @@
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
-  <a href="https://github.com/digitalgarage">
-    <img src="https://komarev.com/ghpvc/?username=digitalgarage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=digitalgarage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 Studying **Software Engineering**
-* 🌱 Deepening my knowledge in the **MERN stack**
-* 💻 Passionate about building web and mobile applications
+* 🎓 Studying **Software Engineering** at National University of Mongolia (2023 - 2027)
+* 💻 Passionate about building robust Web, Mobile, and Desktop applications
+* 🧠 Interested in Machine Learning, Computer Vision, and human connection through code
+
+---
 
 ### 🛠 Tech Stack
 
-**Frontend & Styling:**
-<p>
+#### 🌐 Web Development
+<p align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
 </p>
 
-**Backend & Database:**
-<p>
+#### 📱 Mobile & Desktop Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
+</p>
+
+#### ⚙️ Backend, Database & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+#### 🧪 AI & Computer Vision
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MediaPipe-04A1E6?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
 </p>
 
 ---
+
+### ❤️ Personal Favorites & Passions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Liverpool%20FC-C8102E?style=for-the-badge&logo=liverpoolfc&logoColor=white" alt="Liverpool FC" />
@@ -43,6 +61,13 @@
 
 <p align="center">
   <b>"You'll Never Walk Alone"</b> 🔴 | <b>"Més que un club"</b> 🔵🔴
+</p>
+
+<br>
+
+<p align="center">
+  ✨ <b>Special Thanks</b><br>
+  <i>"Maral is the <code>Main()</code> function of my life. Without her, nothing compiles."</i> 🌻
 </p>
 
 ---
@@ -66,8 +91,4 @@
   <a href="https://instagram.com/watermorphosis">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
-<p align="center">
-  <i><b>Maral</b> is the <code>Main()</code> function of my life. Without her, nothing works. 🌻</i>
 </p>
