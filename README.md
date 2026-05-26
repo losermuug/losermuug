@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 Studying **Software Engineering** at National University of Mongolia (2023 - 2027)
-* 💻 Passionate about building robust Web, Mobile, and Desktop applications
+* 💻 Passionate about building robust Web, Mobile applications
 * 🧠 Interested in Machine Learning, Computer Vision, and human connection through code
 
 ---
