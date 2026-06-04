@@ -64,7 +64,6 @@
 <br>
 
 <p align="center">
-  ✨ <b>Special Thanks</b><br>
   <i>"Maral is the <code>Main()</code> function of my life. Without her, nothing compiles."</i> 🌻
 </p>
 
